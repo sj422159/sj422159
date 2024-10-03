@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sj422159
+- 👋 Hi, I’m Swapnajit Sahoo
 - 👀 I’m interested in Developing New Projects
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate
