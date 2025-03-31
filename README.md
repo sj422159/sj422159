@@ -27,8 +27,7 @@ If you’re interested in AI, Web Development, or any exciting tech, let’s con
 
 ## 📫 How to Reach Me  
 📩 **Email**: sj422159@gmail.com  
-🌍 **GitHub**: [github.com/yourusername](https://github.com/sj422159)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile]([https://linkedin.com/](https://www.linkedin.com/in/swapnajit-sahoo-04578a261/))  
+💼 **LinkedIn**:  https://www.linkedin.com/in/swapnajit-sahoo-04578a261/
 
 Let’s innovate and code the future! 🚀  
 
